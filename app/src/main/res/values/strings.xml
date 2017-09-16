@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListOfLagosJavaDevelopers</string>
+    <string name="internet">No internet connection, Please check your internet connection</string>
+</resources>
